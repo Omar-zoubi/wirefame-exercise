@@ -1,0 +1,68 @@
+header{
+    background-image:url( https://placehold.it/200x70/ddd);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 150px;
+}
+header img 
+{
+    
+    position: relative;
+    top: 40px;
+    left: 60px;
+}
+ header nav ul{
+    position:relative ;
+    right:500px;
+    
+     
+
+} 
+header nav ul li {
+        padding-left: 100px;
+
+    float: right;
+    margin-left: 20px;
+    font-size: large;
+}
+
+main section div img {
+  display: inline;
+  left:100px;
+}
+/* 3 Images*/
+  .div1
+  {
+    margin: 15px;
+   
+    
+      margin-left: 425px;
+  }
+/* paragraph  */
+  main section div article img{
+      float: left;
+      margin-left: 425px;
+      margin-right: 1%;
+
+    
+  }
+ 
+
+
+  /* Big image */
+  main section div aside {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin: 5px; */
+    width: 50%;
+    padding: 15px;
+
+}
+footer{
+    background-color:cadetblue;
+    text-align: center;
+    height: 50px;
+    padding-top: 20px;
+
+}
